@@ -1,6 +1,7 @@
 # Cobalt2 Theme for Mou
 
 Theme for the Mou Markdown editor. A port of [Cobalt2 for Sublime Text](https://github.com/wesbos/cobalt2). 
+	![What it looks like](readme-img/sample.png)
 
 ## Installation
 
@@ -15,4 +16,4 @@ Theme for the Mou Markdown editor. A port of [Cobalt2 for Sublime Text](https://
 
 ## A work in progress
 
-It always is, and always will be. 
+It always is, and always will be. Please contribute!
