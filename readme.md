@@ -12,7 +12,7 @@ Theme for the Mou Markdown editor. A port of [Cobalt2 for Sublime Text](https://
 	![Finder window](readme-img/2.png)
 
 3. Back in the Preferences window, click Reload. When you click the dropdown menu to choose a new theme, Cobalt2 should appear.
-	![Finder window](readme-img/3.png)
+	![Preferences window](readme-img/3.png)
 
 ## A work in progress
 
