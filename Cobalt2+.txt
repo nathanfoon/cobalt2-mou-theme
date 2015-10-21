@@ -1,7 +1,7 @@
 editor
 foreground: ffffff
-background: 17344a
-caret: ffc600
+background: 193549
+caret: ffc700
 
 editor-selection
 foreground: ffffff
